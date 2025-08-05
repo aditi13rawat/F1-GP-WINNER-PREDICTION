@@ -13,8 +13,7 @@ Built using:
 
 📊 Hosted App: [Click to Try](https://f1-gp-winner-prediction-djzt473yszdysp6ac85e8r.streamlit.app/)
 
-![App Screenshot](./<img width="1920" height="1020" alt="Screenshot 2025-08-05 223955" src="https://github.com/user-attachments/assets/11754952-ac93-41f7-b8df-3ee84006205a" />
-)
+![App Screenshot](./"C:\Users\Aditi Rawat\Downloads\Screenshot 2025-08-05 223955.png"/>)
 
 ## 🚀 Features
 - Select driver, constructor, and circuit

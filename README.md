@@ -7,9 +7,8 @@ Predicts the winning probability of a Formula 1 driver based on:
 - Circuit
 
 Built using:
-- Machine Learning (Logistic Regression/RandomForest/etc.)
+- Machine Learning (Logistic Regression / RandomForest / etc.)
 - Streamlit for frontend
 - Trained on historical F1 data
 
-📊 Hosted App: [Click to Try]([https://f1-gp-winner-prediction-<your_id>.streamlit.app](https://f1-gp-winner-prediction-djzt473yszdysp6ac85e8r.streamlit.app/))
-
+📊 **Hosted App**: [Click to Try](https://f1-gp-winner-prediction-djzt473yszdysp6ac85e8r.streamlit.app/)

@@ -13,7 +13,7 @@ Built using:
 
 📊 Hosted App: [Click to Try](https://f1-gp-winner-prediction-djzt473yszdysp6ac85e8r.streamlit.app/)
 
-![App Screenshot](./f1.png)
+![App Screenshot](./screenshot.png)
 
 
 ## 🚀 Features

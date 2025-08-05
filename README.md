@@ -1,2 +1,15 @@
-# F1-GP-WINNER-PREDICTION
-Predicts F1 Grand Prix winners using qualifying and historical race data.
+# 🏎️ F1 Grand Prix Winner Predictor
+
+Predicts the winning probability of a Formula 1 driver based on:
+- Starting Grid Position
+- Driver
+- Constructor
+- Circuit
+
+Built using:
+- Machine Learning (Logistic Regression/RandomForest/etc.)
+- Streamlit for frontend
+- Trained on historical F1 data
+
+📊 Hosted App: [Click to Try]([https://f1-gp-winner-prediction-<your_id>.streamlit.app](https://f1-gp-winner-prediction-djzt473yszdysp6ac85e8r.streamlit.app/))
+
